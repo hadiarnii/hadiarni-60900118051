@@ -1,0 +1,17 @@
+body{
+    width: 300%;
+    margin: 30px;
+    background-color: red;
+}
+#profile-container{
+    max-width: 870px;
+    background-color: white;
+    border:radius: 6px;
+}
+#profile-image{
+    width: 100%;
+    height: auto;
+}
+#pfofile-name{
+    text-align: center;
+}
